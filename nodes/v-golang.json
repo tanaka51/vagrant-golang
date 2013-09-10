@@ -4,6 +4,7 @@
         "zsh",
         "emacs",
         "git",
+        "mercurial",
         "golang"
     ]
 }
