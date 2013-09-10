@@ -3,6 +3,7 @@
         "tmux::source",
         "zsh",
         "emacs",
+        "git",
         "golang"
     ]
 }
